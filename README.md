@@ -4,7 +4,7 @@ La BitLana es una criptomoneda enfocada en proveer un mecanismo descentralizado 
 
 ¡La BitLana es de todos! El código es completamente abierto y gratuito para usar sin restricción alguna, excepto las especificadas en la licencia.
 
-Si quieres hacer algún cambio al código, por favor haz un pull request en la rama master.
+Si quieres hacer algún cambio al código, por favor haz un pull request en la rama `master`.
 
 Puedes conocer más de esta criptomoneda en [https://www.bitlana.com](https://www.bitlana.com)
 
@@ -62,4 +62,3 @@ bitlana-explorer está licenciado bajo la GNU Lesser General Public License v3.0
 ## Créditos
 
 Basado en [https://github.com/Karbovanets/Karbowanec-Blockchain-Explorer](https://github.com/Karbovanets/Karbowanec-Blockchain-Explorer)
-
